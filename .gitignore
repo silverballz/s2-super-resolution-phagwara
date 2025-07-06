@@ -1,0 +1,8 @@
+*.jp2
+*.SAFE
+*.zip
+*.tif
+*.aux.xml
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
